@@ -1,2 +1,6 @@
 h2{color: white;}
 body{background-color:black;}
+
+:root {
+  filter: invert(100%);
+}
